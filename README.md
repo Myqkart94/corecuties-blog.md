@@ -1,102 +1,81 @@
----
-title: CoreCuties Cast – Web3 Social Platform, NFT Identity & CCTR Rewards on CoreDAO
-description: Discover CoreCuties Cast, a social Web3 dApp for NFT holders on CoreDAO. Learn how CCTR tokens and verified badges power identity, rewards, and the CoreCuties DEX.
-tags: [CoreCuties, CoreDAO, NFT, Web3, CCTR Token, Verified Badge, Airdrop, DEX, Cuties]
-date: 2025-06-26
----
+## 🤔 People Also Ask About CoreCuties
 
-# CoreCuties Cast – Web3 Social Platform, NFT Identity & CCTR Rewards on CoreDAO
+### What is CoreCuties?
 
-Welcome to **CoreCuties Cast** – a decentralized Web3 social dApp where NFT holders connect, interact, and earn CCTR tokens on the **CoreDAO blockchain**.
-
-No usernames. No bots. Just real Web3 users verified by their NFTs and empowered by token rewards.
+CoreCuties is a Web3 brand on the CoreDAO blockchain featuring NFT collections, a decentralized social dApp (CoreCuties Cast), and its own token called CCTR. It also includes a community-driven decentralized exchange called CoreCuties DEX.
 
 ---
 
-## 🌐 What is CoreCuties Cast?
+### What is CoreCuties Cast?
 
-**CoreCuties Cast** is a blockchain-powered social platform where users post, comment, and engage using only their wallet address. Every action is recorded **on-chain**, creating transparent, bot-free, and reward-driven engagement.
+CoreCuties Cast is a decentralized social platform where users post, comment, and interact using their CoreDAO wallet. Verified NFT holders get a "Verified Cutie Badge" and are eligible for CCTR token rewards.
 
 🌐 Visit: [https://corecuties.fun](https://corecuties.fun)
 
 ---
 
-## 🧬 Verified Cutie Badge – Powered by Your NFTs
+### What is the CCTR Token used for?
 
-CoreCuties Cast features a unique **Verified Cutie Badge** that appears on user profiles once they own any eligible NFT from the CoreCuties universe.
+CCTR is the utility and community rewards token of the CoreCuties ecosystem. It's used for:
+- Distributing rewards on CoreCuties Cast
+- On-chain tipping and gifting
+- Trading on the CoreCuties DEX
+- Accessing exclusive NFT perks and airdrops
 
-### 🎖️ NFT Collections That Grant Verification:
-- 🐾 **CoreCuties Mascots**
-- ✨ **CoreCuties Magic Edition**
-- 👑 **CoreCuties Genesis Collection**
-- 🔥 **CoreCuties Special Drops** (event-based or limited-time NFTs)
-
-Holding any one of these will:
-- ✅ Verify your profile on CoreCuties Cast
-- ✅ Prioritize your wallet in the **AirdropX** engagement feed
-- ✅ Make you eligible for token and NFT-based airdrops
+🪙 Token: `0x811af333e431f4a6283bfbb1e0cd244715fd9c54`
 
 ---
 
-## 🪙 What is the CCTR Token?
+### How do I get the Verified Cutie Badge?
 
-The **CCTR Token** is the utility and rewards token used across the CoreCuties ecosystem.
+You get the Verified Cutie Badge automatically by owning any NFT from these CoreCuties collections:
+- 🐾 CoreCuties Mascots
+- ✨ CoreCuties Magic Edition
+- 👑 CoreCuties Genesis
+- 🔥 Special Drops
 
-### 🔧 CCTR Token Utilities:
-- 🎁 Distribute rewards to verified Cutie users
-- 💬 Power on-chain gifting and tipping on CoreCuties Cast
-- 🧠 Serve as the native utility for community campaigns and exclusive unlocks
-- ⚙️ Will be the main trading pair in the upcoming CoreCuties DEX
-
-📄 View contract: [CCTR on CoreDAO Explorer](https://explorer.coredao.org/token/0x811af333e431f4a6283bfbb1e0cd244715fd9c54)
+This badge appears on your Cast profile and gives you access to exclusive rewards.
 
 ---
 
-## 🪂 AirdropX – Transparent Engagement Tracker
+### What is the CoreCuties DEX?
 
-Every post on CoreCuties Cast includes an **AirdropX button**, allowing project owners to:
-- Track who liked, commented, or reposted content
-- Airdrop tokens/NFTs to real users based on interaction
-- Separate **verified NFT holders** from general participants
+CoreCuties DEX is a decentralized exchange where you can trade CCTR and other CoreDAO tokens. It is integrated with the CoreCuties ecosystem and rewards the community.
 
-This system ensures **rewards go to real community members**, not bots.
+🌐 DEX Link: [https://corecuties.in](https://corecuties.in)
 
 ---
 
-## 🔁 CoreCuties DEX – Trade CCTR and Other CoreDAO Tokens
+### How do I use CoreCuties Cast?
 
-Coming soon at [https://corecuties.in](https://corecuties.in), the **CoreCuties DEX** will offer:
-- 🌐 Token swaps (starting with **CCTR/CORE**)
-- 🧾 Automatic token discovery on CoreDAO
-- 👥 Trade fee commission routing to the CoreCuties ecosystem
-- ✅ Instant integration with wallet addresses already used on Cast
-
-The DEX is designed to work in harmony with your identity on CoreCuties Cast — making social and trading experiences seamless.
+1. Go to [https://corecuties.fun](https://corecuties.fun)  
+2. Connect your wallet  
+3. Verify your NFT badge  
+4. Start posting and earning CCTR  
 
 ---
 
-## 🛠️ How to Get Started
+### Is CoreCuties only about NFTs?
 
-1. Visit **[corecuties.fun](https://corecuties.fun)**
-2. Connect your CoreDAO-compatible wallet
-3. Verify your NFT to unlock the **Verified Cutie Badge**
-4. Start posting, earning, and becoming part of Web3 history
+No. CoreCuties includes NFTs, social tools, and DeFi components like its own token (CCTR) and DEX. It’s an ecosystem built around community, identity, and real rewards — all powered by CoreDAO.
 
 ---
 
-## 🔗 Official Links
+### Can I earn tokens on CoreCuties Cast?
 
-- 🌐 CoreCuties Cast: [https://corecuties.fun](https://corecuties.fun)  
-- 🧢 Verified Badge Info: [https://corecuties.fun/verify](https://corecuties.fun/verify)  
-- 🪙 CCTR Token: [CoreDAO Explorer Link](https://explorer.coredao.org/token/0x811af333e431f4a6283bfbb1e0cd244715fd9c54)  
-- 💱 CoreCuties DEX: [https://corecuties.in](https://corecuties.in)
+Yes! You can earn CCTR by interacting with posts, holding NFTs, and being a verified Cutie. Projects can also airdrop directly to you using AirdropX.
 
 ---
 
-## 📢 Hashtags for Sharing
+### What blockchain is CoreCuties built on?
 
-`#CoreCuties #Web3Social #CoreDAO #CCTR #NFTBadge #AirdropX #DEX #CoreCutiesCast`
+CoreCuties is built on the **CoreDAO** blockchain — a scalable, BTC-inspired, and Web3-friendly network known for fast, cheap transactions and EVM compatibility.
 
 ---
 
-**All rights reserved © CoreCuties | Built on CoreDAO | Powered by the Community**
+### How can I follow CoreCuties updates?
+
+Follow the official channels:
+- 🐦 Twitter/X: [https://x.com/corecuties](https://x.com/corecuties)
+- 🌐 Website: [https://corecuties.fun](https://corecuties.fun)
+- 💱 DEX: [https://corecuties.in](https://corecuties.in)
